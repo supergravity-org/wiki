@@ -1,4 +1,5 @@
-  * [[:start|Wiki Home]]
-  * [[https://supergravity.org|Main Site]]
+  * [[https://supergravity.org|Main Page]]
+  * [[https://ask.supergravity.org|Ask]]
+  * [[https://discuss.supergravity.org|Discuss]]
 
 ~~NOCACHE~~
