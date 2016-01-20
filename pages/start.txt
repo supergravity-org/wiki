@@ -1,1 +1,15 @@
-Welcome to supergravity wiki
+====== Welcome to supergravity wiki ======
+
+A public knowledge-base for the Basic Structures of Matter - Supergravitation unified theory (BSM-SG).
+
+===== Learning material =====
+
+  * [[dive_into_bsm|Dive Into BSM]]
+  * [[books|Books]]
+  * [[scientific_papers|Scientific Papers]]
+  * [[videos|Videos]]
+
+===== Projects =====
+
+  * [[sgizer/start| Sgizer]]
+  * [[bsmsynth/start| BSMsynth]]
