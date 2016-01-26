@@ -1,0 +1,34 @@
+====== Problems with the standard model ======
+
+
+
+
+===== Big Bang Theory =====
+From the BSM main book:
+
+  * Discrepancy between the age of some old stars in our galaxy and the estimated age of the Universe
+  * Discrepancy between theoretically estimated mass of the Universe and the observed one
+  * The recently estimated trend of Hubble constant for red shifts larger than 0.8 leads to another paradox - unexplainable acceleration of the galaxies after the Big Bang
+  * Some of the neighbouring galaxies from the local group show blue shift
+  * The Cosmic Microwave Background (CMB), considered as a relict radiation shows anisotropy related to the solar system motion around the Milky way
+  * The galaxy rotational curves are unexplainable enigma requiring an adoption of a "darkmatter"
+  * Images from deep space with improved resolution show one and a same picture - same type of galaxies. A recently discovered spiral galaxy only one billion years after the Big Bang contradicts to the Big Bang concept of matter evolution.
+  * The red shift periodicity of the galaxies from the local supercluster is not explained
+  * Alternative Cosmology. Stationary(9) The physics of the globular clusters and the star population of type II are note explained satisfactorily. This refers also for the difference between the classical cepheids and the cepheids of second type.
+  * The pulsation mechanism of the variable stars is not explained satisfactorily
+  * Pulsars ("neutron stars"): steps in rotation rate, spin down rate, micro glitches and timing noise in pulsars - not satisfactorily explained
+  * Pulsars velocities and observed escaping pulsars from Milky way - not explained
+  * Not explained phenomena about the quasars:
+      * physical mechanism
+      * broaden lines
+      * multiple red shifts of absorption line
+  * Lyman alpha forest - no logical explanation
+  * Not explained phenomena of Supergalaxies formations:
+      *  large non-uniformity in galaxy distribution, cluster formations, voids and “God’s effect”
+      * anisotropy in the galaxy plane orientations
+  * Distortion of CMB in gravitational lensing (Sunaev-Zeldovich effect) - not explainable
+  * Galaxy collisions and related phenomena - not satisfactorily explained
+  * GRB (gamma ray bursts) - not explained
+
+From [[http://cosmology.info/|Alternative Cosmology Group]], :
+  * Lithium in stars does not match predicted levels
