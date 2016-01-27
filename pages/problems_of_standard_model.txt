@@ -33,5 +33,8 @@ From the BSM main book:
   * Galaxy collisions and related phenomena - not satisfactorily explained
   * GRB (gamma ray bursts) - not explained
 
-From [[http://cosmology.info/|Alternative Cosmology Group]], :
+From [[http://cosmology.info/|Alternative Cosmology Group]], [[http://cosmology.info/newsletter/2014.05.pdf|Newsletter 2014.05]]:
   * Lithium in stars does not match predicted levels
+  * To large structures - [[http://mnras.oxfordjournals.org/content/early/2013/01/07/mnras.sts497.full|large quasar structure]]
+  * The Cosmic Background Radiation and the Problem of Large-Scale, Non-Random, Asymmetries [[http://link.springer.com/article/10.1023/A%3A1018826228212|paper]]
+  * Many added free parameters and no predictions [[http://www.intechopen.com/books/aspects-of-today-s-cosmology/doubts-about-big-bang-cosmology|paper]]
