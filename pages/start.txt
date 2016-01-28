@@ -10,7 +10,8 @@ A public knowledge-base for the Basic Structures of Matter - Supergravitation un
   * [[videos|Videos]]
 
 ===== Explanations =====
-
+  * [[atom_model|Atomic Model]] - [[proton|Proton]] - [[neutron|Neutron]] - [[electron|Electron]]
+  * [[events|Events]]
 
 ===== Comparisons =====
   * [[problems_of_standard_model|Problems of the standard model]]
