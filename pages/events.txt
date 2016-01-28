@@ -1,0 +1,5 @@
+====== Events ======
+
+Events interpreted under the BSM-SG model perspective:
+
+{{topic>event}}
