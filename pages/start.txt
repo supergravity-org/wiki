@@ -15,7 +15,7 @@ A public knowledge-base for the Basic Structures of Matter - Supergravitation un
 
 ===== Comparisons =====
   * [[problems_of_standard_model|Problems of the standard model]]
-  * [[comparison_of_standard_model_vs_bsm|Standard Model vs BSM]]
+  * [[comparison_of_models|BSM compared against other models (The Standard Model)]]
 
 ===== Projects =====
 
