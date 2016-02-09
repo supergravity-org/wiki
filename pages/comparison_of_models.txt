@@ -1,0 +1,70 @@
+====== Comparison of Models ======
+
+
+===== Basics =====
+
+^                      ^ BSM   ^   Standard Model  ^
+| Energy Conservation  | yes, attribute of intrinsic matter. universe is a closed system | yes (universe is open system) |
+| Number of Dimensions | 3 euclidean  | 3 euclidean + time + (+ 0-6)((12 for strings theory)) |
+| Number of fundamental Forces | 1 - supergravitation | 4 - strong, weak, electromagnetic, gravity |
+| Number of fundamental particles | 2 | 24 + 5 bosons |
+| Gravity | <wrap derived>derived</wrap> | <wrap postulated>postulated</wrap> |
+| Inertia | <wrap derived>derived</wrap> | <wrap postulated>postulated</wrap> |
+| Vacuum  | Contains a honeycomb like grid structure (CL space) kept by IG field | Empty space with matter/antimatter recombinations to explain vacuum fluctuations |
+| Time | oscillation period of lowest level structure | 
+| Space-Time | non-separable | separable |<wrap counterfactual>absolute time base non existing. Arrow of time now existing</wrap> |
+| GR around heavy bodies | <warp counterfactual>Lorenz Transformation</wrap> | Quasi Shrink effect of CL space |
+| SR | yes | yes |
+| Gravity | <wrap derived>derived</wrap> only in CL space | <wrap postulated>postulated</wrap> |
+| Inertia | <wrap derived>derived</wrap> only in CL space | <wrap postulated>postulated</wrap> |
+| Equivalence priciple (E=mc²) | only in CL space | 
+| Stability of Galaxies/Universe | <wrap good>galaxies naturally become stable</wrap> | <wrap bad>unknown process of big bang</wrap>|
+| Electrodynamics | Full implementation of Maxwell original equations - Dirac see | Missing scalar parameter |
+
+===== Constants =====
+^                      ^ BSM   ^   Standard Model  ^
+| Fine structure constant | <wrap derived>embedded in lowest structure (derived)</wrap> | <wrap postulated>experimentally determined</wrap> |
+| light velocity | <wrap derived>derived</wrap> | <wrap postulated>postulated</wrap> |
+
+
+
+
+
+===== Particle Physics =====
+
+^                      ^ BSM   ^   Standard Model  ^
+| Photon | energy wave in CL space | particle |
+| Proton | High level crystal structure from prisms | composite of quarks |
+| Neutrino | Rectangular Lattice Node from 6 prisms (2 types) | fundamental particle |
+| Neutrino mass | <wrap good>yes</wrap> | <wrap counterfactual>no</wrap> |
+| Antimatter | natural antimatter not producible. Only unstable mangled matter with opposite charge. Natural antimatter galaxies likely seldom, no equal amount required in history. | Discrepancy between matter/anti-matter ratio after big bang unsolved |
+
+
+===== Cosmology =====
+
+^                      ^ BSM   ^   Standard Model  ^
+| Big Bang             | Galaxies have their own lifecycle. Each galaxy collapses and explodes in cyles. Static universe | <wrap counterfactual>Expansion from a singularity. Highly counterfactual</wrap>(([[http://cosmology.info|Alternative Cosmology Group]] collected many papers)) |
+| Pulsar | <wrap explained>explained</wrap> | unknown |
+| Pulsar complex frequency variations | <wrap explained>explained</wrap> | unknown |
+| Binary pulsar | <wrap explained>explained</wrap> | unexplained |
+| Quaesar | <wrap explained>explained</wrap> |  |
+| Supernova | <wrap explained>explained</wrap> | <wrap explained>explained</wrap> |
+| Black Hole from star decay | <wrap explained>explained</wrap> | problematic.  |
+| Supermassive black hole in center of galaxies | <wrap explained>galactic nucleus, explained</wrap> | <wrap unknown>unknown</wrap> |
+| Dark Matter | traditional dark matter not required. | not found yet |
+| Very active area around galactic nucleus | predicted (2001) | unexplained |
+| Galaxy Rotation | <wrap explained>explained</wrap> | dark matter hypothesis |
+| Globular Clusters | <wrap explained>explained</wrap> | unexplained |
+| Gamma Ray Burst (GRB) | <wrap explained>explained</wrap> | unexplained |
+| red shift periodicity | <wrap explained>explained</wrap> | unexplained |
+| lyman alpha forest | <wrap explained>explained</wrap> | unexplained |
+| Black hole singularity problem | not-existent | yes |
+| Big Bang singularity problem | non-existent | yes |
+| Expansion rate increase z > 0.8 | <wrap explained>explained</wrap> | mystery |
+| Cepheid type II population | <wrap>explained</wrap> | unknown |
+| Minimum galaxy size | required | unexplained |
+| Maximum galaxy size | likely | ? |
+
+
+
+
