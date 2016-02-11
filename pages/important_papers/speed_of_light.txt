@@ -1,0 +1,6 @@
+====== Speed of Light - Ether Drift Experiments ======
+
+^ Authors, I-st publication date ^ Epoch ^ RA((Right Ascension - Equatorial coordinates)) ^ δ((Declination - Equatorial coordinates)) ^ l((Longitude - Galactic Coordinates)) ^ γ((latitude - Galactic Coordinates)) ^ V (km/s)((velocity in Absolute space)) ^ Type ^ Comments ^
+| David Miller, 1933 | 1925-26 | 4h54m  | -70d33m | 282d | -35.2d | 208 | Interferometer, continuous light ||
+
+  - D. C. Miller, The Ether-Drift Experiment and the Determination of the Absolute Motion of the Earth, Review of Modern Physics, 5, 203-242, (1933) [[https://en.wikipedia.org/wiki/Dayton_Miller#Aether_research|WP: History]] - [[http://www.anti-relativity.com/Miller1933.pdf|Download]]
