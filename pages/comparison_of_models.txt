@@ -12,7 +12,7 @@
 | Inertia | <wrap derived>derived</wrap> | <wrap postulated>postulated</wrap> |
 | Vacuum  | Contains a honeycomb like grid structure (CL space) kept by IG field | Empty space with matter/antimatter recombinations to explain vacuum fluctuations |
 | Time | oscillation period of lowest level structure | 
-| Space-Time | non-separable | separable |<wrap counterfactual>absolute time base non existing. Arrow of time missing</wrap> |
+| Space-Time | separable | non-separable. <wrap counterfactual>absolute time base non existing. Arrow of time missing</wrap> |
 | GR around heavy bodies | Quasi Shrink effect of CL space | <warp counterfactual>Lorenz Transformation</wrap> |
 | SR | yes | yes |
 | Gravity | <wrap derived>derived</wrap> only in CL space | <wrap postulated>postulated</wrap> |
