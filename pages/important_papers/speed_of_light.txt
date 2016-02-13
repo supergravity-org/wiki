@@ -2,5 +2,35 @@
 
 ^ Authors, I-st publication date ^ Epoch ^ RA((Right Ascension - Equatorial coordinates)) ^ δ((Declination - Equatorial coordinates)) ^ l((Longitude - Galactic Coordinates)) ^ γ((latitude - Galactic Coordinates)) ^ V (km/s)((velocity in Absolute space)) ^ Type ^ Comments ^
 | David Miller, 1933 | 1925-26 | 4h54m  | -70d33m | 282d | -35.2d | 208 | Interferometer, continuous light ||
+|K. Illingworth - analyzed by R. Cahill & Kitto, 2003 | 1927 | | | | | 369+/-123 | Interferometer, continuous light |
+|Stefan Marinov, 1983 | 1973 | Earth abs. velocity along instrument axis 130+/-100 km/s ||||| Rotating mirrors, chopped light ||
+|Stefan Marinov, 1980 | 1975-76 | 13h23m +/- 20m | -23+/-4d | 313d | 38.9d | 303+/-20 | Interferometer, rotating mirrors, chopped light ||
+|Muller et al. | 1976 ||| Velocity towards Leo ~ 400 ||| CMB ||
+|G. Smoot et al., 1977 | 1977 | 11+/-0.6d | 6+/-10d | 245+/-15d | 54+/-10d | 390+/-60 | CMB ||
+| Wilkinson and Corey | 1975? | 12h+/-1h | -21d+/-21d | 288d | 40d | 320+/-80 | CMB ||
+| C. Monstein and J. Wesley, 1996 | 1978-96 | 8.7d+/-3.5m | -1.1d+/-10d | 227.9d | 24.3 | 359+/-180 | Muon flux anisotropy ||
+| Stefan Marinov, 1995 | 1984 | 12.5h+/-1h | -24d+/-7d | 397.5d | 38.4 | 362+/-40 | Coupled shutters, chopped light ||
+| E. Silvertooth, 1986 | | | | | | 378+/-? | Rotating mirrors, chopped light ||
+| M. Consoli et al., 2006 | | 202d | -44d | 309d | 18d | 276+/-71 | Analysis of rotating optical resonators |analysis of 3 Modern laboratory experiments, two in Germany and one in Australia, based on active and cryogenic optical resonators|
+
+
+
+
 
   - D. C. Miller, The Ether-Drift Experiment and the Determination of the Absolute Motion of the Earth, Review of Modern Physics, 5, 203-242, (1933) [[https://en.wikipedia.org/wiki/Dayton_Miller#Aether_research|WP: History]] - [[http://www.anti-relativity.com/Miller1933.pdf|Download]]
+  - R. T. Cahill and Kirsty Kitto, Michelson-Morley Experiments Revisited and the Cosmic Background Radiation Preferred Frame, Apeiron, 10, No 2, 104-1017, (2003) [[http://www.mountainman.com.au/process_physics/hps09.pdf|Download]]
+  -  S. Marinov, Measurement of the Laboratory’s Absolute velocity, General Relativity and Gravitation, 12, 57-66, (1980) [[http://www.ptep-online.com/index_files/2007/PP-08-05.PDF|Download]]
+  - S. Marinov, The interrupted “rotating disc” experiment, J. Phys A: Math. Gen, 16, 1885-1888, (1983) [[http://www.helical-structures.org/selected_articles/interrupted_rot_disk_exp.pdf|Download]]
+  - G. F. Smoot et al., Detection of Anisotropy in the Cosmic Blackbody Radiation, Physical Review Letters, 39, No 14,  898-901, (1977) [[http://muller.lbl.gov/COBE-early_history/anisotropy-PRL.pdf|Download]]
+  - Corey, B. E.; Wilkinson, D. T., A Measurement of the Cosmic Microwave Background Anisotropy at 19 GHz, Bulletin of the American Astronomical Society, Vol. 8, p.351, 03/1976 [[http://adsabs.harvard.edu/cgi-bin/bib_query?1976BAAS....8Q.351C|Download]]
+  - C. Monstein and J. P. Wesley, Solar System Velocity from Muon Flux Anisotropy, Apeiron, 3, No. 2, 33-37, (1996) [[http://redshift.vif.com/JournalFiles/Pre2001/V03NO2PDF/V03N2MON.PDF|Download]]
+  - S. Marinov, Экспериментальные нарушения принципов относительности, эквивалентности и сохранения нергии, Физическая мыслъ Росии, Но 2, 52-57, (1995)
+  - E. W. Silvertooth, Experimental detection of the ether, Speculations in Science and Technology, 10, No 1, 3-7, (1986) [[http://www.spirit-science.fr/ArchivesScientifiques/1986Silvertooth.pdf|Download]]
+  - M. Consoli and E. Constanzo, Motion toward the Great Attractor from an ether-drift experiment, arXiv:astro-ph/0601420 v. 2, (2006). [[http://arxiv.org/pdf/astro-ph/0601420v2|Download]]
+
+
+===== Videos =====
+
+Problems with Michelson-Morley type of Interferometer experiments is explained by
+[[https://www.youtube.com/watch?v=T07j1PVe16s|Reginal Cahill - Review of Experiments Contradicting Special Relativity]]
+
