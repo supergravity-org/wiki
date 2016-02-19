@@ -33,11 +33,14 @@
 ===== Particle Physics =====
 
 ^                      ^ BSM   ^   Standard Model  ^
-| Photon | energy wave in CL space | particle |
+| Photon | 2 entangled energy waves in CL space (straight electrical wave + helical surrounding magnetic wave)  | particle |
 | Proton | High level crystal structure from prisms | composite of quarks |
 | Neutrino | Rectangular Lattice Node from 6 prisms (2 types) | fundamental particle |
 | Neutrino mass | <wrap good>yes</wrap> | <wrap counterfactual>no</wrap> |
 | Neutrino flavor oscillation  | <wrap good>no</wrap> | <wrap counterfactual>yes</wrap> |
+| - electron | -RL (Rectangular Node - 6 long primsm) | |
+| - muon | +RL (Rectangular Node - 6 small primsm) | |
+| - tau | Hellical Cord + Fragments - long primsm | |
 | Antimatter | natural antimatter not producible. Only unstable mangled matter with opposite charge. Natural antimatter galaxies likely seldom, no equal amount required in history. | Discrepancy between matter/anti-matter ratio after big bang unsolved |
 
 
