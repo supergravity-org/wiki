@@ -47,7 +47,9 @@
 ===== Cosmology =====
 
 ^                      ^ BSM   ^   Standard Model  ^
-| Big Bang             | Galaxies have their own lifecycle. Each galaxy collapses and explodes in cyles. Static universe | <wrap counterfactual>Expansion from a singularity. Highly counterfactual</wrap>(([[http://cosmology.info|Alternative Cosmology Group]] collected many papers)) |
+| Big Bang             | Galaxies have their own life-cycle. Each galaxy collapses and explodes in cyles| <wrap counterfactual>Expansion from a singularity. Highly counterfactual</wrap>(([[http://cosmology.info|Alternative Cosmology Group]] collected many papers)) |
+| Redshift | cosmological phenomena due prims differences between galaxies, host galaxy & globular cluster, ... | Doppler kind of effect (space expansion) |
+| Universe size | static - red-shift has different reason | expanding |
 | Pulsar | <wrap explained>explained</wrap> | unknown |
 | Pulsar complex frequency variations | <wrap explained>explained</wrap> | unknown |
 | Binary pulsar | <wrap explained>explained</wrap> | unexplained |
