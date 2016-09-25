@@ -2,7 +2,7 @@
 
 This list reflects the Wikipedia list [[https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics|List of unsolved problems in physics]] under the BSM-SG perspective.
 
-Does not apply usually means that the underlying concepts are too different so the problem does not exist from the BSM perspective.
+**Does not apply** usually means that the underlying concepts are too different so the problem does not exist from the BSM perspective.
 
 ===== General physics/quantum physics =====
 ^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
