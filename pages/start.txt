@@ -14,6 +14,7 @@ A public knowledge-base for the Basic Structures of Matter - Supergravitation un
   * [[events|Events]]
 
 ===== Comparisons =====
+  * [[List_of_unsolved_problems_in_physics|Wikipedia: List of unsolved problems in physics from BSM perspective]]
   * [[problems_of_standard_model|Problems of the standard model]]
   * [[important_papers/index|Important Papers]]
   * [[comparison_of_models|BSM compared against other models (The Standard Model)]]
