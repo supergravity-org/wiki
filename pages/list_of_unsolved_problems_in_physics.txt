@@ -5,7 +5,7 @@ This list reflects the Wikipedia list [[https://en.wikipedia.org/wiki/List_of_un
 Does not apply usually means that the underlying concepts are too different so the problem does not exist from the BSM perspective.
 
 ===== General physics/quantum physics =====
-^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
 |[[https://en.wikipedia.org/wiki/Entropy_(arrow_of_time))|Entropy (arrow of time)]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Interpretation_of_quantum_mechanics|Interpretation of quantum mechanics]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Grand_Unification_Theory|Grand Unification Theory ("Theory of everything")]]| X | | | |
@@ -15,7 +15,7 @@ Does not apply usually means that the underlying concepts are too different so t
 |[[https://en.wikipedia.org/wiki/Fine-tuned_Universe|Fine-tuned Universe]]| X | | | |
 
 ===== Cosmology and general relativity =====
-^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
 |[[https://en.wikipedia.org/wiki/Problem_of_time|Problem of time]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Cosmic_inflation|Cosmic inflation]]| X | X | | |
 |[[https://en.wikipedia.org/wiki/Horizon_problem|Horizon problem]]| X | | | |
@@ -30,7 +30,7 @@ Does not apply usually means that the underlying concepts are too different so t
 |[[https://en.wikipedia.org/wiki/Shape_of_the_Universe|Shape of the Universe]]| | | X | |
 
 ===== Quantum gravity =====
-^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
 |[[https://en.wikipedia.org/wiki/Cosmological_constant_problem|Vacuum catastrophe]]| X | X | | |
 |[[https://en.wikipedia.org/wiki/Quantum_gravity|Quantum gravity]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Black_hole|Black holes]]| X | | | |
@@ -41,7 +41,7 @@ Does not apply usually means that the underlying concepts are too different so t
 |[[https://en.wikipedia.org/wiki/Principle_of_locality|Locality]]| X | | | |
 
 ===== High-energy physics/particle physics =====
-^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
 |[[https://en.wikipedia.org/wiki/Higgs_mechanism|Higgs mechanism]]| | X | | |
 |[[https://en.wikipedia.org/wiki/Hierarchy_problem|Hierarchy problem]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Planck_particle|Planck particle]]| X | | X | |
@@ -57,7 +57,7 @@ Does not apply usually means that the underlying concepts are too different so t
 |[[https://en.wikipedia.org/wiki/Pentaquark|Pentaquarks]] and other [[https://en.wikipedia.org/wiki/Exotic_hadron|exotic hadrons]]| X | | | |
 
 ===== Astronomy and astrophysics =====
-^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
 |[[https://en.wikipedia.org/wiki/Astrophysical_jet|Astrophysical jet]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Solar_cycle|Solar cycle]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Coronal_heating_problem|Coronal heating problem]]| | | X | |
@@ -83,17 +83,17 @@ Does not apply usually means that the underlying concepts are too different so t
 |Nature of [[https://en.wikipedia.org/wiki/Wow!_signal|Wow! signal]]| | | X | |
 
 ===== Nuclear physics =====
-^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
 |[[https://en.wikipedia.org/wiki/Quantum_chromodynamics|Quantum chromodynamics]]| | X | | |
 |[[https://en.wikipedia.org/wiki/Atomic_nucleus|Nuclei]] and [[https://en.wikipedia.org/wiki/Nuclear_astrophysics|nuclear astrophysics]] | X | | | |
 |[[https://en.wikipedia.org/wiki/Plasma_(physics)|Plasma physics]] and [[https://en.wikipedia.org/wiki/Fusion_power|fusion power]]| (X) | | X | LENR mechanism is explained |
 
 ===== Nuclear physics =====
-^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
 |[[https://en.wikipedia.org/wiki/Abraham%E2%80%93Minkowski_controversy|Abraham–Minkowski controversy]]| | | X | |
 
 ===== Condensed matter physics =====
-^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
 |[[https://en.wikipedia.org/wiki/High-temperature_superconductor|High-temperature superconductors]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Amorphous_solid|Amorphous solids]]| | | X | |
 |[[https://en.wikipedia.org/wiki/Cryogenic_electron_emission|Cryogenic electron emission]]| | | X | |
@@ -107,7 +107,7 @@ Does not apply usually means that the underlying concepts are too different so t
 |[[https://en.wikipedia.org/wiki/Semiconductor_nanocrystal|Semiconductor nanocrystals]]| | | X | |
 
 ===== Biophysics =====
-^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
 |Stochasticity and robustness to noise in gene expression| | | X | |
 |Quantitative study of the immune system| | | X | |
 |[[https://en.wikipedia.org/wiki/Homochirality|Homochirality]]| | | X | |
