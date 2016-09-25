@@ -37,7 +37,7 @@ Does not apply usually means that the underlying concepts are too different so t
 |[[https://en.wikipedia.org/wiki/Black_hole_information_paradox|black hole information paradox]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Black_hole_radiation|black hole radiation]]| | | X | Partially solved |
 |[[https://en.wikipedia.org/wiki/Extra_dimensions|Extra dimensions]]| | X | | 3 Dimensional Euclidean Space is a assumption |
-|The [[https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis|cosmic censorship hypothesis]] and the [[https://en.wikipedia.org/wiki/Chronology_protection_conjecture||chronology protection conjecture]]| X | X | | |
+|The [[https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis|cosmic censorship hypothesis]] and the [[https://en.wikipedia.org/wiki/Chronology_protection_conjecture|chronology protection conjecture]]| X | X | | |
 |[[https://en.wikipedia.org/wiki/Principle_of_locality|Locality]]| X | | | |
 
 ===== High-energy physics/particle physics =====
