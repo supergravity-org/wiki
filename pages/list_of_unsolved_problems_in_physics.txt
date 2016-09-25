@@ -36,7 +36,7 @@ This list reflects the Wikipedia list [[https://en.wikipedia.org/wiki/List_of_un
 |[[https://en.wikipedia.org/wiki/Black_hole|Black holes]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Black_hole_information_paradox|black hole information paradox]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Black_hole_radiation|black hole radiation]]| | | X | Partially solved |
-|[[https://en.wikipedia.org/wiki/Extra_dimensions|Extra dimensions]]| | X | | 3 Dimensional Euclidean Space is a assumption |
+|[[https://en.wikipedia.org/wiki/Extra_dimensions|Extra dimensions]]| | X | | 3 Dimensional Euclidean Space is assumed |
 |The [[https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis|cosmic censorship hypothesis]] and the [[https://en.wikipedia.org/wiki/Chronology_protection_conjecture|chronology protection conjecture]]| X | X | | |
 |[[https://en.wikipedia.org/wiki/Principle_of_locality|Locality]]| X | | | |
 
