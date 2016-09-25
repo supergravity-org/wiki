@@ -1,0 +1,113 @@
+====== List of unsolved problems in physics ======
+
+This list reflects the Wikipedia list [[https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics|List of unsolved problems in physics]] under the BSM-SG perspective.
+
+Does not apply usually means that the underlying concepts are too different so the problem does not exist from the BSM perspective.
+
+===== General physics/quantum physics =====
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+|[[https://en.wikipedia.org/wiki/Entropy_(arrow_of_time))|Entropy (arrow of time)]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Interpretation_of_quantum_mechanics|Interpretation of quantum mechanics]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Grand_Unification_Theory|Grand Unification Theory ("Theory of everything")]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_theory|Yang–Mills theory]]| | X | X | |
+|[[https://en.wikipedia.org/wiki/Physical_information|Physical information]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/Dimensionless_physical_constant|Dimensionless physical constant]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Fine-tuned_Universe|Fine-tuned Universe]]| X | | | |
+
+===== Cosmology and general relativity =====
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+|[[https://en.wikipedia.org/wiki/Problem_of_time|Problem of time]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Cosmic_inflation|Cosmic inflation]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/Horizon_problem|Horizon problem]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Ultimate_fate_of_the_universe|Origin and future of the universe]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Universe#Size_and_regions|Size of universe]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Baryon_asymmetry|Baryon asymmetry]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Cosmological_constant_problem#Cosmological_constant_problem|Cosmological constant problem]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Dark_matter|Dark matter]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/Dark_energy|Dark energy]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/Dark_flow|Dark flow]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/Ecliptic_alignment_of_CMB_anisotropy|Ecliptic alignment of CMB anisotropy]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Shape_of_the_Universe|Shape of the Universe]]| | | X | |
+
+===== Quantum gravity =====
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+|[[https://en.wikipedia.org/wiki/Cosmological_constant_problem|Vacuum catastrophe]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/Quantum_gravity|Quantum gravity]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Black_hole|Black holes]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Black_hole_information_paradox|black hole information paradox]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Black_hole_radiation|black hole radiation]]| | | X | Partially solved |
+|[[https://en.wikipedia.org/wiki/Extra_dimensions|Extra dimensions]]| | X | | 3 Dimensional Euclidean Space is a assumption |
+|The [[https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis|cosmic censorship hypothesis]] and the [[https://en.wikipedia.org/wiki/Chronology_protection_conjecture||chronology protection conjecture]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/Principle_of_locality|Locality]]| X | | | |
+
+===== High-energy physics/particle physics =====
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+|[[https://en.wikipedia.org/wiki/Higgs_mechanism|Higgs mechanism]]| | X | | |
+|[[https://en.wikipedia.org/wiki/Hierarchy_problem|Hierarchy problem]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Planck_particle|Planck particle]]| X | | X | |
+|[[https://en.wikipedia.org/wiki/Magnetic_monopole|Magnetic monopoles]]| X | | X | |
+|[[https://en.wikipedia.org/wiki/Proton_decay|Proton decay]] and [[https://en.wikipedia.org/wiki/Proton_spin_crisis|spin crisis]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Supersymmetry|Supersymmetry]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/Generation_(particle_physics)|Generations of matter]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Neutrino_mass|Neutrino mass]]| X | | X | |
+|[[https://en.wikipedia.org/wiki/Color_confinement|Colour confinement]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Strong_CP_problem|Strong CP problem]] and [[https://en.wikipedia.org/wiki/Axion|axions]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/Anomalous_magnetic_dipole_moment|Anomalous magnetic dipole moment]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Proton_radius_puzzle|Proton radius puzzle]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Pentaquark|Pentaquarks]] and other [[https://en.wikipedia.org/wiki/Exotic_hadron|exotic hadrons]]| X | | | |
+
+===== Astronomy and astrophysics =====
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+|[[https://en.wikipedia.org/wiki/Astrophysical_jet|Astrophysical jet]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Solar_cycle|Solar cycle]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Coronal_heating_problem|Coronal heating problem]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Diffuse_interstellar_band|Diffuse interstellar bands]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Supermassive_black_hole|Supermassive black holes]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Kuiper_cliff|Kuiper cliff]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Flyby_anomaly|Flyby anomaly]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Galaxy_rotation_problem|Galaxy rotation problem]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Supernova|Supernova]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Ultra-high-energy_cosmic_ray|Ultra-high-energy cosmic ray]]| | X | | |
+|[[https://en.wikipedia.org/wiki/Saturn|Rotation rate of Saturn]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Magnetar#Magnetic_field|Origin of magnetar magnetic field]]| X | | X | |
+|[[https://en.wikipedia.org/w/index.php?title=Large-scale_anisotropy&action=edit&redlink=1|Large-scale anisotropy]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/Space_roar|Space roar]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Age-metallicity_relation|Age–metallicity]] relation in the Galactic disk| | | X | |
+|[[https://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis|The lithium problem]]| X | X | | |
+|[[https://en.wikipedia.org/wiki/C/2006_P1#Ulysses_probe|Solar wind interaction with comets]]| | | X | |
+|[[https://en.wikipedia.org/wiki/M82_X-2|Ultraluminous pulsar]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Fermi_acceleration#The_injection_problem|The injection problem]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Fast_radio_burst|Fast radio bursts]]| | | X | |
+|Nature of [[https://en.wikipedia.org/wiki/KIC_8462852|KIC 8462852]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Fermi_paradox|Fermi paradox]]| X |  | X | |
+|Nature of [[https://en.wikipedia.org/wiki/Wow!_signal|Wow! signal]]| | | X | |
+
+===== Nuclear physics =====
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+|[[https://en.wikipedia.org/wiki/Quantum_chromodynamics|Quantum chromodynamics]]| | X | | |
+|[[https://en.wikipedia.org/wiki/Atomic_nucleus|Nuclei]] and [[https://en.wikipedia.org/wiki/Nuclear_astrophysics|nuclear astrophysics]] | X | | | |
+|[[https://en.wikipedia.org/wiki/Plasma_(physics)|Plasma physics]] and [[https://en.wikipedia.org/wiki/Fusion_power|fusion power]]| (X) | | X | LENR mechanism is explained |
+
+===== Nuclear physics =====
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+|[[https://en.wikipedia.org/wiki/Abraham%E2%80%93Minkowski_controversy|Abraham–Minkowski controversy]]| | | X | |
+
+===== Condensed matter physics =====
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+|[[https://en.wikipedia.org/wiki/High-temperature_superconductor|High-temperature superconductors]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Amorphous_solid|Amorphous solids]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Cryogenic_electron_emission|Cryogenic electron emission]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Sonoluminescence|Sonoluminescence]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Turbulence|Turbulence]]| | | X | |
+|[[https://en.wikipedia.org/w/index.php?title=Alfv%C3%A9nic_turbulence&action=edit&redlink=1|Alfvénic turbulence]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Topological_order|Topological order]]| | X | | |
+|[[https://en.wikipedia.org/wiki/Fractional_Hall_effect|Fractional Hall effect]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Bose%E2%80%93Einstein_condensation|Bose–Einstein condensation]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Liquid_crystal|Liquid crystals]]| | | X | |
+|[[https://en.wikipedia.org/wiki/Semiconductor_nanocrystal|Semiconductor nanocrystals]]| | | X | |
+
+===== Biophysics =====
+^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment
+|Stochasticity and robustness to noise in gene expression| | | X | |
+|Quantitative study of the immune system| | | X | |
+|[[https://en.wikipedia.org/wiki/Homochirality|Homochirality]]| | | X | |
