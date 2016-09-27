@@ -38,14 +38,14 @@ This list reflects the Wikipedia list [[https://en.wikipedia.org/wiki/List_of_un
 |[[https://en.wikipedia.org/wiki/Black_hole_radiation|black hole radiation]]| | | X | Partially solved |
 |[[https://en.wikipedia.org/wiki/Extra_dimensions|Extra dimensions]]| | X | | 3 Dimensional Euclidean Space is assumed |
 |The [[https://en.wikipedia.org/wiki/Cosmic_censorship_hypothesis|cosmic censorship hypothesis]] and the [[https://en.wikipedia.org/wiki/Chronology_protection_conjecture|chronology protection conjecture]]| X | X | | |
-|[[https://en.wikipedia.org/wiki/Principle_of_locality|Locality]]| X | | | |
+|[[https://en.wikipedia.org/wiki/Principle_of_locality|Locality]]| | | | |
 
 ===== High-energy physics/particle physics =====
 ^ Problem ^ Solved ^ Does not apply ^ Open ^ Comment ^
-|[[https://en.wikipedia.org/wiki/Higgs_mechanism|Higgs mechanism]]| | X | | |
+|[[https://en.wikipedia.org/wiki/Higgs_mechanism|Higgs mechanism]]| | X | X | |
 |[[https://en.wikipedia.org/wiki/Hierarchy_problem|Hierarchy problem]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Planck_particle|Planck particle]]| X | | X | |
-|[[https://en.wikipedia.org/wiki/Magnetic_monopole|Magnetic monopoles]]| X | | X | |
+|[[https://en.wikipedia.org/wiki/Magnetic_monopole|Magnetic monopoles]]| | | X | |
 |[[https://en.wikipedia.org/wiki/Proton_decay|Proton decay]] and [[https://en.wikipedia.org/wiki/Proton_spin_crisis|spin crisis]]| X | | | |
 |[[https://en.wikipedia.org/wiki/Supersymmetry|Supersymmetry]]| X | X | | |
 |[[https://en.wikipedia.org/wiki/Generation_(particle_physics)|Generations of matter]]| X | | | |
